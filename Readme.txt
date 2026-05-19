@@ -1,2 +1,3 @@
 Fynxx internship
-day 1 - git theory
+day 1 
+day 2- git practical
